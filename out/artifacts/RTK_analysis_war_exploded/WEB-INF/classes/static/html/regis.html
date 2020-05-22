@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <script src="/js/CheckForm.js"></script>
+</head>
+<body>
+<script>
+    $(function () {
+        $("#name").blur(function () {
+            $.post("/user/isValidName", {
+                    name: $(this).val(),
+                },
+                function (data) {
+                    if (data.res == "no") {
+                        $("#ajax").html("用户名已存在！");
+                        $(this).select();
+                    } else {
+                        $("#ajax").html("用户名可用");
+                    }
+                }, "json");
+        });
+    });
+</script>
+<div class="modal-title">
+    <h1 class="text-center">注册</h1>
+</div>
+<div class="modal-body">
+    <form class="form-group" id="regis">
+        <div class="form-group">
+            <label>用户名</label>
+            <input name="name" id="name" class="form-control" type="text" placeholder="请输入用户名(必填)">
+            <p id="ajax"></p>
+        </div>
+        <div class="form-group">
+            <label>密码</label>
+            <input name="password" class="form-control" type="password" placeholder="请输入密码(必填)">
+        </div>
+        <div class="form-group">
+            <label>邮箱</label>
+            <input name="email" class="form-control" type="email" placeholder="请输入邮箱(必填)">
+        </div>
+        <div class="text-left">
+            <input class="btn btn-primary btn-lg" style="background-color: #418a72;color: white" type="button" value="点击我获取验证码" id="valiDate" onclick="change()">
+        </div>
+        <div class="form-group">
+            <label>验证码</label>
+            <input name="validate" class="form-control" type="text" placeholder="请输入验证码">
+        </div>
+
+        <div class="text-right">
+            <input class="btn btn-default"  style="background-color: #498a5d;color: white" type="button" type="button" value="注册" onclick="checkForm1()">
+            <button class="btn bg-danger" style="background-color: #8a1843;color: white" data-dismiss="modal">取消</button>
+        </div>
+    </form>
+</div>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+body {
+    padding: 0;
+
+}
+
+.card {
+
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: 楷体;
+    width: 90%;
+    margin-left: 5%;
+    /*border-radius: 5px;*/
+    box-shadow: 0 0 5px #fbfbfb;
+    margin-bottom: 50px;
+}
+
+.card-left {
+
+    margin-left: 10%;
+    font-size: 20px;
+    float: left;
+
+}
+
+.card-right {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    float: right;
+    margin-right: 10%;
+}
+
+.tables {
+    text-align: center;
+    margin: auto
+}
+
+.btn-center {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    padding-top: 150px;
+}
+
+.btn-sgst {
+    box-shadow: 0 0 3px #cacaca;
+    border-radius: 2px;
+    border: 0;
+    background-color: #292929;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-sg {
+    margin: auto;
+    border-radius: 2px;
+    border: none;
+    font-size: 15px;
+    box-shadow: #5e5e5e;
+}
+
+.card-cont {
+
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: 筑紫A丸;
+    /*background-color: #e5daa9*/
+}
+
+.opt {
+    text-align: center;
+    font-size: 15px;
+}
+
+.tab-res {
+
+    border: 1px solid #aaa;
+    border-spacing: 2px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+
+}
+
+tr, th, td {
+    border: 1px solid #565656;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.tittle1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+

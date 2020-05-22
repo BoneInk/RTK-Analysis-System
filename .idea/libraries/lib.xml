@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.68.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsmartcom_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jieba-analysis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-spring-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3.5.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
