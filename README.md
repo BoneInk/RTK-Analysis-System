@@ -1,5 +1,5 @@
 # RTK-Analysis-System
-基于Spring MVC+Mybatis的针对《三国演义》的一个人名，地名等的分析系统
+《三国演义》在线统计与分析系统，基于Spring MVC + Mybatis，使用Jieba分词作为分析手段
 
 ---
 
