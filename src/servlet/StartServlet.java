@@ -21,9 +21,9 @@ public class StartServlet extends HttpServlet {
         request.setCharacterEncoding("UTF-8");
         DiskFileItemFactory sf = new DiskFileItemFactory();//实例化磁盘被文件列表工厂
         String path = request.getServletContext().getRealPath("/upload");//得到上传文件的存放目录
-
         try {
-            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(path + "/三国演义.txt"), "utf-8"));
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(
+                    path + "/三国演义.txt"), "utf-8"));
             ArrayList<String> arrayList = new ArrayList<>();
             String line = "";
             while ((line = br.readLine()) != null) {

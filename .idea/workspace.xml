@@ -5,10 +5,83 @@
       <artifact name="RTK-analysis:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61c52f9-2e0d-4ad2-92e2-e23b70e311e0" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d61c52f9-2e0d-4ad2-92e2-e23b70e311e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/214528f7-d6b0-48be-8199-747897a695e1/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3c088392-ef51-41f4-9763-daddf2f95cd2/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47530a39-af26-4b80-b87e-129a00e2d89b/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/500ae906-b3ad-423c-b6d1-b724fc80fdf2/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/674643ae-1847-4a7a-8a61-9c1f4134d111/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6f6f95b0-5792-4fa1-9898-3eb334b008ca/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7d13b737-6fa3-44e0-b0fc-dfffda152b25/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8b44f333-bf62-45ef-9f9f-0a1dd84b34ea/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9df8fdcd-5c0b-4bee-9f3f-5d8a41d65ce0/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1dbb963-7593-4a19-8e35-4ece9a1a5643/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b26e5893-bf04-438b-b1bb-2ba4f36bfae8/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b8a945ea-0302-4f7d-9575-5aa97d52c513/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d214edfb-f8c8-46ea-be1e-ad3d77923380/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ee4818b9-7eea-465d-9573-21b98487661e/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/cn/edu/ncu/RTKanaly/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/cn/edu/ncu/RTKanaly/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/db/RTKSql.db" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/db/RTKSql.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/AllSearchServlet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/AllSearchServlet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/AllSearchServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/AllSearchServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/CombineServlet$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/CombineServlet$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/CombineServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/CombineServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/SelectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/SelectServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/StartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/StartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/servlet/UploadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/static/html/regis.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/static/html/regis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/static/js/CheckForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/static/js/CheckForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/views/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/views/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/classes/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/static/html/regis.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/static/html/regis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/static/js/CheckForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/static/js/CheckForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/views/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/views/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RTK_analysis_war_exploded/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/cn/edu/ncu/RTKanaly/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/cn/edu/ncu/RTKanaly/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/AllSearchServlet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/AllSearchServlet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/AllSearchServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/AllSearchServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/CombineServlet$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/CombineServlet$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/CombineServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/CombineServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/SelectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/SelectServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/StartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/StartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/servlet/UploadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/static/html/regis.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/static/html/regis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/static/js/CheckForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/static/js/CheckForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/views/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/views/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RTK-analysis/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RTK-analysis/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/AllSearchServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/AllSearchServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/CombineServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/CombineServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/SelectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/SelectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/StartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/StartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/UploadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/UploadServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/static/html/regis.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/static/html/regis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/static/js/CheckForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/static/js/CheckForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,210 +117,6 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2082948766">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1472" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.28" value="3" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.37" value="2" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="MF" value="2" />
-          <entry key="class" value="16" />
-          <entry key="classpath" value="2" />
-          <entry key="content" value="12" />
-          <entry key="css" value="34" />
-          <entry key="html" value="58" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="435" />
-          <entry key="jpg" value="7" />
-          <entry key="js" value="58" />
-          <entry key="jsp" value="382" />
-          <entry key="meta" value="1" />
-          <entry key="png" value="6" />
-          <entry key="project" value="2" />
-          <entry key="rnc" value="1" />
-          <entry key="sgPlace" value="1" />
-          <entry key="sql" value="2" />
-          <entry key="sqlite_autoindex_content_1" value="1" />
-          <entry key="sqlite_master" value="1" />
-          <entry key="table_name" value="2" />
-          <entry key="tmp" value="3" />
-          <entry key="ts" value="1" />
-          <entry key="ttf" value="1" />
-          <entry key="txt" value="54" />
-          <entry key="user" value="20" />
-          <entry key="xml" value="220" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="16" />
-          <entry key="CSS" value="34" />
-          <entry key="Database Element" value="35" />
-          <entry key="Eclipse" value="4" />
-          <entry key="Font" value="1" />
-          <entry key="HTML" value="58" />
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="Image" value="13" />
-          <entry key="JAVA" value="435" />
-          <entry key="JSP" value="382" />
-          <entry key="JavaScript" value="58" />
-          <entry key="Manifest" value="2" />
-          <entry key="PLAIN_TEXT" value="59" />
-          <entry key="RNG Compact" value="1" />
-          <entry key="SQL" value="1" />
-          <entry key="Scratch" value="2" />
-          <entry key="TypeScript" value="1" />
-          <entry key="XML" value="220" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cell" value="34" />
-          <entry key="css" value="1017" />
-          <entry key="html" value="947" />
-          <entry key="java" value="10573" />
-          <entry key="js" value="134" />
-          <entry key="jsp" value="12421" />
-          <entry key="sql" value="49" />
-          <entry key="txt" value="1551" />
-          <entry key="xml" value="1933" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="1017" />
-          <entry key="HTML" value="947" />
-          <entry key="JAVA" value="10573" />
-          <entry key="JSP" value="12421" />
-          <entry key="JavaScript" value="134" />
-          <entry key="PLAIN_TEXT" value="1551" />
-          <entry key="SQL" value="47" />
-          <entry key="Scratch" value="40" />
-          <entry key="XML" value="1929" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-102032849">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="MF" value="1" />
-          <entry key="classpath" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="1" />
-          <entry key="project" value="1" />
-          <entry key="userlibraries" value="1" />
-          <entry key="xml" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Eclipse" value="2" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="1" />
-          <entry key="Manifest" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="6" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="untitled1" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/RTK-analysis.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.project">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -260,106 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>貂蝉</find>
-      <find>王允</find>
-      <find>瞻</find>
-      <find>小沛</find>
-      <find>孙</find>
-      <find>诸葛瑾</find>
-      <find>top</find>
-      <find>max</find>
-      <find>alert</find>
-      <find>角</find>
-      <find>国舅</find>
-      <find>平</find>
-      <find>孔融</find>
-      <find>北海</find>
-      <find>曹芳</find>
-      <find>芳</find>
-      <find>曹髦</find>
-      <find>曹奂</find>
-      <find>孙亮</find>
-      <find>董允</find>
-      <find>刘</find>
-      <find>允</find>
-      <find>于诠</find>
-      <find>孙峻</find>
-      <find>关</find>
-      <find>王朗</find>
-      <find>朗</find>
-      <find>冀</find>
-      <find>美髯公</find>
-      <find>单福</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>cname</replace>
-      <replace>uname</replace>
-    </replaceStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/main.jsp" />
-        <option value="$PROJECT_DIR$/web/res.jsp" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/entity/User.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/logFail.jsp" />
-        <option value="$PROJECT_DIR$/src/servlet/IdServlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/js/md5.min.js.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/js/md5.min.js" />
-        <option value="$PROJECT_DIR$/src/until/ProduceMD5.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/entity/Content.java" />
-        <option value="$PROJECT_DIR$/out/production/untitled1/mapper/ContentMapper.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b1dbb963-7593-4a19-8e35-4ece9a1a5643/console.sql" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/service/TestServlet.java" />
-        <option value="$PROJECT_DIR$/src/mapper/ContentMapper.xml" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/service/ContentService.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/dao/ContentDao.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/ContentController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/pFile.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/sentence.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/js/echarts.min.js" />
-        <option value="$PROJECT_DIR$/web/txt/sgPlace.txt" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/servlet/AllSearchServlet.java" />
-        <option value="$PROJECT_DIR$/src/servlet/StartServlet.java" />
-        <option value="$PROJECT_DIR$/src/servlet/PartSearchServlet.java" />
-        <option value="$PROJECT_DIR$/src/until/HexConversion.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/css/style.css" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/js/CheckForm.js" />
-        <option value="$PROJECT_DIR$/src/EncodingFilter.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/main.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/file.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/error.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/res.jsp" />
-        <option value="$PROJECT_DIR$/src/servlet/CombineServlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/resPart.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/resPartS.jsp" />
-        <option value="$PROJECT_DIR$/web/upload/三国演义.txt" />
-        <option value="$PROJECT_DIR$/web/txt/sgname.txt" />
-        <option value="$PROJECT_DIR$/src/servlet/SelectServlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/txt/sgPlace.txt" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/txt/sgName.txt" />
-        <option value="$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/html/login.html" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/static/html/regis.html" />
-        <option value="$PROJECT_DIR$/src/servlet/UploadServlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -375,103 +146,13 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="540" />
-    <option name="y" value="140" />
-    <option name="width" value="915" />
-    <option name="height" value="730" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RTK-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RTK-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1ca0gBjtqkgsEmacUon38zFjNZ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -485,7 +166,7 @@
     <property name="ToolWindowFind.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590147617625" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590227771969" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -512,18 +193,6 @@
       <recent name="C:\Users\59012\Desktop\jieba-analysis-master (1)\untitled1\web\WEB-INF\static\js" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
     <configuration name="TestServlet" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="RTK-analysis" />
@@ -535,6 +204,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="cn.edu.ncu.RTKanaly.service" />
       <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.RTKanaly.service.TestServlet" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -551,11 +221,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_untitled1_3" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="51601" />
       </RunnerSettings>
@@ -615,11 +285,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_untitled1" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="51601" />
       </RunnerSettings>
@@ -708,381 +378,100 @@
       <workItem from="1590145250218" duration="46000" />
       <workItem from="1590146740546" duration="139000" />
       <workItem from="1590146954077" duration="593000" />
+      <workItem from="1590195599252" duration="4709000" />
+      <workItem from="1590299851050" duration="2087000" />
+      <workItem from="1590751515223" duration="1916000" />
+      <workItem from="1590755438636" duration="1444000" />
+      <workItem from="1591330035957" duration="126000" />
+      <workItem from="1591330220859" duration="15817000" />
+      <workItem from="1591362245304" duration="111000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestServlet - 2020.05.19 at 01h 13m 07s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 01h 13m 27s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 01h 13m 45s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 01h 17m 50s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 01h 18m 38s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 01h 20m 41s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 09h 34m 38s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 09h 35m 32s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 09h 35m 36s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestServlet - 2020.05.19 at 09h 37m 20s.xml">
-      <configuration name="TestServlet" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="433262000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4885845" visible="true" weight="0.35187668" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.50728154" side_tool="true" weight="0.22050938" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.51141554" side_tool="true" weight="0.122654155" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.3282123" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49377593" visible="true" weight="0.3896648" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32402235" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49731904" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5062241" side_tool="true" weight="0.3983051" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49798927" weight="0.32122904" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32960895" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32960895" />
-      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3282123" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3299748" />
-      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3914209" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/until/ProduceMD5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/image/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://18a32c02-5f9b-4478-90ae-1cf3bedb5e9d/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/txt/noUse.txt" />
-    <entry file="file://$PROJECT_DIR$/web/txt/sgname.txt" />
-    <entry file="file://$PROJECT_DIR$/web/txt/sgPlace.txt" />
-    <entry file="file://$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/static/txt/sgName.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/upload/三国演义.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1659">
-          <caret line="2069" column="12" selection-start-line="2069" selection-start-column="12" selection-end-line="2069" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/txt/noUse.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/txt/sgPlace.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/upload/三国演义.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/txt/sgName.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/logFail.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/html/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/js/commons.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66348">
-          <caret line="3492" column="9" selection-start-line="3492" selection-start-column="9" selection-end-line="3492" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/html/regis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="26" column="9" selection-start-line="9" selection-start-column="6" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/static/js/CheckForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="47" selection-start-line="28" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/resPart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/resPartS.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4370">
-          <caret line="231" column="69" selection-start-line="231" selection-start-column="69" selection-end-line="231" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/res.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/AllSearchServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/file.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/UploadServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/StartServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/SelectServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/PartSearchServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/CombineServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RTK-analysis.userlibraries">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/RTK-analysis.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/ncu/RTKanaly/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="361" y="58" key="#Plugins" timestamp="1591330232247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1591330232247" />
+    <state x="542" y="294" key="#Tomcat_Server" timestamp="1591335612572">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="542" y="294" key="#Tomcat_Server/0.0.1536.834@0.0.1536.834" timestamp="1591335612572" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591335615597">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591335615597" />
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591330144292">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1591330144292" />
+    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1591341171016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591341171016" />
+    <state width="1024" height="213" key="GridCell.Tab.0.bottom" timestamp="1591361526766">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591361526766" />
+    <state width="1024" height="213" key="GridCell.Tab.0.center" timestamp="1591361526765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591361526765" />
+    <state width="1024" height="213" key="GridCell.Tab.0.left" timestamp="1591361526765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591361526765" />
+    <state width="1024" height="213" key="GridCell.Tab.0.right" timestamp="1591361526766">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591361526766" />
+    <state width="1024" height="213" key="GridCell.Tab.1.bottom" timestamp="1591361526767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591361526767" />
+    <state width="1024" height="213" key="GridCell.Tab.1.center" timestamp="1591361526767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591361526767" />
+    <state width="1024" height="213" key="GridCell.Tab.1.left" timestamp="1591361526766">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591361526766" />
+    <state width="1024" height="213" key="GridCell.Tab.1.right" timestamp="1591361526767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591361526767" />
+    <state width="1024" height="213" key="GridCell.Tab.2.bottom" timestamp="1591361526768">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591361526768" />
+    <state width="1024" height="213" key="GridCell.Tab.2.center" timestamp="1591361526767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1591361526767" />
+    <state width="1024" height="213" key="GridCell.Tab.2.left" timestamp="1591361526767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1591361526767" />
+    <state width="1024" height="213" key="GridCell.Tab.2.right" timestamp="1591361526768">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="213" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1591361526768" />
   </component>
   <component name="masterDetails">
     <states>

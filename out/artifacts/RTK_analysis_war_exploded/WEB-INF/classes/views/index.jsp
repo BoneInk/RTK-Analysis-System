@@ -21,7 +21,7 @@
     <script src="/js/bootstrap.min.js"></script>
     <link href="/css/style.css" rel="stylesheet"/>
     <style>
-        .fpName{
+        .fpName {
             font-family: 幼圆;
             font-size: 50px;
             text-align: center;
@@ -29,7 +29,7 @@
             color: white;
         }
 
-        .fp-btn{
+        .fp-btn {
             color: white;
             font-family: 楷体;
             font-size: 30px;
@@ -37,7 +37,8 @@
             align-items: center;
             margin-top: 60px;
         }
-        .btn-fp{
+
+        .btn-fp {
             margin-left: 20px;
             margin-right: 20px;
             border: 0;
@@ -61,8 +62,10 @@
     <p>《三国演义》在线分析统计系统</p>
 </div>
 <div class="fp-btn">
-    <input href="/html/login.html" rel="tooltip" data-placement="buttom" data-toggle="modal" data-target="#myModal" type="button" class="login btn-fp" value="登录">
-    <input href="/html/regis.html" rel="tooltip" data-placement="buttom" data-toggle="modal" data-target="#myModal" type="button" class="register btn-fp" value="注册">
+    <input href="/html/login.html" rel="tooltip" data-placement="buttom" data-toggle="modal" data-target="#myModal"
+           type="button" class="login btn-fp" value="登录">
+    <input href="/html/regis.html" rel="tooltip" data-placement="buttom" data-toggle="modal" data-target="#myModal"
+           type="button" class="register btn-fp" value="注册">
 </div>
 <div class="modal fade" id="myModal">
     <div class="modal-dialog">

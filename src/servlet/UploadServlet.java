@@ -35,22 +35,20 @@ public class UploadServlet extends HttpServlet {
         sf.setSizeThreshold(1024 * 1024);//设置文件上传小于1M放在内存中
         ServletFileUpload sfu = new ServletFileUpload(sf);
         HttpSession session = request.getSession();
-
         String username = (String) session.getAttribute("username");
         try {
             List<FileItem> lst = sfu.parseRequest(request);//得到request中所有的元素
             for (FileItem fileItem : lst) {
-                BufferedReader br = new BufferedReader(new InputStreamReader(fileItem.getInputStream(), "utf-8"));
+                BufferedReader br = new BufferedReader(new InputStreamReader(
+                        fileItem.getInputStream(), "utf-8"));
                 String line = "";
                 ArrayList<String> arrayList = new ArrayList<>();
                 while ((line = br.readLine()) != null) {
                     arrayList.add(line);
-
                 }
                 session.setAttribute("content", arrayList);
                 fileItem.delete();
             }
-
         } catch (Exception e) {
             e.printStackTrace();
         }

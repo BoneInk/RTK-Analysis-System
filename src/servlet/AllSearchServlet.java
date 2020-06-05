@@ -28,8 +28,9 @@ public class AllSearchServlet extends HttpServlet {
         JiebaSegmenter segmenter = new JiebaSegmenter();
         String key = (String) session.getAttribute("key");
         Map<String, Integer> map = new HashMap<String, Integer>();
-        List<SegToken> segTokens = segmenter.process(content, JiebaSegmenter.SegMode.SEARCH);
-        if (!key.equals("noKey")) {
+        List<SegToken> segTokens = segmenter.process(content,
+                JiebaSegmenter.SegMode.SEARCH);;//调用分词API
+        if (!key.equals("noKey")) {//若选择不筛选则直接统计词频
             for (SegToken segToken : segTokens) {
                 String word = segToken.word;
                 if (mapKey.containsKey(word)) {
@@ -42,7 +43,7 @@ public class AllSearchServlet extends HttpServlet {
                 }
 
             }
-        } else {
+        } else {//若选择关键词进行筛选则对照关键词进行词频统计
             for (SegToken segToken : segTokens) {
 
                 String word = segToken.word;

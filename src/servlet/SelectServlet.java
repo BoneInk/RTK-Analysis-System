@@ -19,6 +19,8 @@ public class SelectServlet extends HttpServlet {//选择调用的Servle
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
+
         response.setContentType("text/html;charset=UTF-8");
         request.setCharacterEncoding("UTF-8");
 
@@ -30,16 +32,20 @@ public class SelectServlet extends HttpServlet {//选择调用的Servle
         DiskFileItemFactory sf = new DiskFileItemFactory();//实例化磁盘被文件列表工厂
         String path = request.getServletContext().getRealPath("/WEB-INF/static/txt");
         HashMap<String, String> mapKey = keySearch(key, path, cusKey, request);
-        HttpSession session = request.getSession();
-        session.setAttribute("keyMap", mapKey);
-        session.setAttribute("splitKey", splitKey);
-        session.setAttribute("key", key);
-        if (range.equals("all")) {
-            dispatcher = request.getRequestDispatcher("/AllSearchServlet");
-            dispatcher.forward(request, response);
-        } else if (range.equals("part")) {
-            dispatcher = request.getRequestDispatcher("/PartSearchServlet");
-            dispatcher.forward(request, response);
+        if(mapKey==null){
+            request.getRequestDispatcher("WEB-INF/views/error.jsp").forward(request,response);
+        }else {
+            HttpSession session = request.getSession();
+            session.setAttribute("keyMap", mapKey);
+            session.setAttribute("splitKey", splitKey);
+            session.setAttribute("key", key);
+            if (range.equals("all")) {
+                dispatcher = request.getRequestDispatcher("/AllSearchServlet");
+                dispatcher.forward(request, response);
+            } else if (range.equals("part")) {
+                dispatcher = request.getRequestDispatcher("/PartSearchServlet");
+                dispatcher.forward(request, response);
+            }
         }
     }
 
@@ -55,8 +61,7 @@ public class SelectServlet extends HttpServlet {//选择调用的Servle
             br = new BufferedReader(new InputStreamReader(new FileInputStream(path + "/noUse.txt"), "utf-8"));
         } else if (key != null && key.equals("custom")) {
             if (cusKey.equals("")) {
-                RequestDispatcher dispatcher = null;
-                dispatcher = request.getRequestDispatcher("error.jsp?error='NoCK!'");
+
                 return null;
             }
             String[] cusS = cusKey.split("\n|\r");
@@ -66,6 +71,7 @@ public class SelectServlet extends HttpServlet {//选择调用的Servle
                     mapKey.put(b[i], b[0]);
                 }
             }
+
             return mapKey;
         } else {
             return null;

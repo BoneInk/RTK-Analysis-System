@@ -23,6 +23,19 @@
                     }
                 }, "json");
         });
+        // $("#email").blur(function () {
+        //     var strReg="";
+        //     var strText=document.getElementById("email").value;
+        //     strReg=/^\w+((-\w+)(\.\w+))*\@{}\w+\.{}\w{,}(\.{,}\w{}){,}/ig;
+        //     r=strText.search(strReg);
+        //     if(r==-1) {
+        //         $("#emailAlert").html("邮箱格式不正确");
+        //         document.getElementById("emailAlert").focus();
+        //     }else {
+        //         $("#emailAlert").html("格式正确");
+        //     }
+        //
+        // })
     });
 </script>
 <div class="modal-title">
@@ -42,6 +55,7 @@
         <div class="form-group">
             <label>邮箱</label>
             <input name="email" class="form-control" type="email" placeholder="请输入邮箱(必填)">
+            <p id="emailAlert"></p>
         </div>
         <div class="text-left">
             <input class="btn btn-primary btn-lg" style="background-color: #418a72;color: white" type="button" value="点击我获取验证码" id="valiDate" onclick="change()">

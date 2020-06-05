@@ -47,12 +47,15 @@ public class CombineServlet extends HttpServlet {
                 return o2.getValue().compareTo(o1.getValue());
             }
         });
-        Collections.sort(list3, new Comparator<Map.Entry<String, Integer>>() {
-            @Override
-            public int compare(Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2) {
-                return o2.getValue().compareTo(o1.getValue());
-            }
-        });
+        if(list3!=null) {
+            Collections.sort(list3, new Comparator<Map.Entry<String, Integer>>() {
+                @Override
+                public int compare(Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2) {
+                    return o2.getValue().compareTo(o1.getValue());
+                }
+            });
+        }
+
 
         request.setAttribute("list1", list1);
         request.setAttribute("list2", list2);

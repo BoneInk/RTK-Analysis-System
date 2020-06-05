@@ -15,14 +15,11 @@
     <script src="/js/bootstrap.min.js"></script>
     <link href="/css/style.css" rel="stylesheet"/>
 </head>
-<%
-
-    String error=request.getParameter("error");
-    String Warning=null;
-    if(error.equals("NoCK")){
-        Warning="缺少关键词！";
+<script>
+    window.onload = function(){
+        setTimeout("history.back()", 3000);
     }
-%>
+</script>
 
 <body style="background-image: url('/image/bg.jpg');">
 <script>
@@ -41,6 +38,8 @@
         window.location.replace("/");
     }
 </script>
+
+
 <nav class="navbar navbar-inverse" role="navigation">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -52,9 +51,8 @@
         <p class="navbar-text navbar-right" id="acountt" style="color: white;margin-right: 20px;font-size: 15px;">你好，<%=session.getAttribute("username")%></p>
     </div>
 </nav>
-<p class="card card-cont" style="text-align: center">
-    <p name="errorType" style="width: 100%"><%=Warning%>
-    </p>
+<div class="card card-cont" style="text-align: center">
+    <p name="errorType" style="width: 100%">缺少关键词！3s后返回上一页</p>
 </div>
 
 </body>
